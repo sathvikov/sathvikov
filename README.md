@@ -58,8 +58,8 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=sathvikov&show_icons=true&theme=radical&border_radius=10&hide_border=true" alt="GitHub Stats" width="100%" />
+      <a href="https://github.com/sathvikov">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathvikov&theme=radical" alt="GitHub Stats" width="100%" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -71,7 +71,9 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathvikov&layout=compact&theme=radical&border_radius=10&hide_border=true" alt="Top Languages" width="60%" />
+  <a href="https://github.com/sathvikov">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathvikov&theme=radical" alt="Top Languages" width="60%" />
+  </a>
 </p>
 
 ---
