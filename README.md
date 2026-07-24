@@ -41,10 +41,10 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Streak-180_Days-FF4500?style=for-the-badge&logo=git&logoColor=white" alt="Streak" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Commits-3K+-00FF7F?style=for-the-badge&logo=git&logoColor=black" alt="Commits" />
+  <img src="https://img.shields.io/badge/Commits-900+-00FF7F?style=for-the-badge&logo=git&logoColor=black" alt="Commits" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-150+_Merged-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/badge/PRs-85+_Merged-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="PRs" />
   &nbsp;
   <img src="https://img.shields.io/badge/Stars-200+_Earned-FFDF00?style=for-the-badge&logo=github-sponsors&logoColor=black" alt="Stars" />
   &nbsp;
@@ -56,9 +56,9 @@
 ### 📈 Git Activity & Contribution Dashboard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-3,240+-success?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits" />
+  <img src="https://img.shields.io/badge/Total_Commits-900+-success?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PRs_Merged-185+-blue?style=for-the-badge&logo=git&logoColor=white" alt="PRs Merged" />
+  <img src="https://img.shields.io/badge/PRs_Merged-85+-blue?style=for-the-badge&logo=git&logoColor=white" alt="PRs Merged" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PR_Success_Rate-98.4%25-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="PR Success Rate" />
 </p>
