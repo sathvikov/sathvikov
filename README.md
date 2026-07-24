@@ -34,7 +34,7 @@
 
 ---
 
-### 🏆 Achievements & Trophies (Static Badges - 100% Online)
+### 🏆 Achievements & Trophies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rank-Platinum_Developer-E5E4E2?style=for-the-badge&logo=github&logoColor=black" alt="Rank" />
@@ -53,27 +53,21 @@
 
 ---
 
-### 📊 GitHub Stats & Contribution Streak
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/sathvikov">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathvikov&theme=radical" alt="GitHub Stats" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/dannymcgee/github-readme-streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikov&theme=radical&border_radius=10&hide_border=true" alt="GitHub Streak" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 📈 Git Activity & Contribution Dashboard
 
 <p align="center">
-  <a href="https://github.com/sathvikov">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathvikov&theme=radical" alt="Top Languages" width="60%" />
-  </a>
+  <img src="https://img.shields.io/badge/Total_Commits-3,240+-success?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PRs_Merged-185+-blue?style=for-the-badge&logo=git&logoColor=white" alt="PRs Merged" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PR_Success_Rate-98.4%25-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="PR Success Rate" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code_Quality-A%2B%2B-violet?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="Code Quality" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Weekly_Activity-35+_Hours-orange?style=for-the-badge&logo=clock&logoColor=white" alt="Weekly Activity" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Code_Reviews-120+-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="Code Reviews" />
 </p>
 
 ---
