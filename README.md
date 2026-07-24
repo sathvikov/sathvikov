@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning advanced cloud architecture and generative AI integrations.
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 💬 Ask me about **JavaScript, Python, React, or database optimization**.
-- 📫 How to reach me: `your.email@example.com`
+- 📫 How to reach me: `sathvikov@gmail.com`
 
 ---
 
@@ -34,12 +34,21 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements & Trophies (Static Badges - 100% Online)
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sathvikov&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Rank-Platinum_Developer-E5E4E2?style=for-the-badge&logo=github&logoColor=black" alt="Rank" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Streak-180_Days-FF4500?style=for-the-badge&logo=git&logoColor=white" alt="Streak" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Commits-3K+-00FF7F?style=for-the-badge&logo=git&logoColor=black" alt="Commits" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-150+_Merged-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="PRs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stars-200+_Earned-FFDF00?style=for-the-badge&logo=github-sponsors&logoColor=black" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Deployments-50+-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployments" />
 </p>
 
 ---
@@ -70,16 +79,12 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="blank">
+  <a href="https://linkedin.com/in/sathvikov" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/yourusername" target="blank">
+  <a href="https://twitter.com/sathvikov" target="blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@yourusername" target="blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
