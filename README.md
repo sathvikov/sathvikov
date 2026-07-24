@@ -34,21 +34,21 @@
 
 ---
 
-### 🏆 Achievements & Trophies (Static Badges - 100% Online)
+### 🏆 Achievements & Trophies (Static Badges)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rank-Platinum_Developer-E5E4E2?style=for-the-badge&logo=github&logoColor=black" alt="Rank" />
+  <img src="https://img.shields.io/badge/Rank-Platinum_Developer-black?style=for-the-badge&logo=github&logoColor=58a6ff" alt="Rank" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Streak-180_Days-FF4500?style=for-the-badge&logo=git&logoColor=white" alt="Streak" />
+  <img src="https://img.shields.io/badge/Streak-46_Days-black?style=for-the-badge&logo=git&logoColor=58a6ff" alt="Streak" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Commits-900+-00FF7F?style=for-the-badge&logo=git&logoColor=black" alt="Commits" />
+  <img src="https://img.shields.io/badge/Commits-900+-black?style=for-the-badge&logo=git&logoColor=58a6ff" alt="Commits" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs-85+_Merged-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="PRs" />
+  <img src="https://img.shields.io/badge/PRs-85+_Merged-black?style=for-the-badge&logo=github&logoColor=58a6ff" alt="PRs" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Stars-200+_Earned-FFDF00?style=for-the-badge&logo=github-sponsors&logoColor=black" alt="Stars" />
+  <img src="https://img.shields.io/badge/Stars-200+_Earned-black?style=for-the-badge&logo=github-sponsors&logoColor=58a6ff" alt="Stars" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Deployments-50+-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Deployments" />
+  <img src="https://img.shields.io/badge/Deployments-50+-black?style=for-the-badge&logo=vercel&logoColor=58a6ff" alt="Deployments" />
 </p>
 
 ---

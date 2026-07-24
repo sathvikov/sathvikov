@@ -1,54 +1,54 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
   <style>
-    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 18px; fill: #fe428e; }
-    .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #a9fef7; }
-    .percentage { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #8e8e8e; }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 18px; fill: #58a6ff; }
+    .label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 14px; fill: #ffffff; }
+    .percentage { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 13px; fill: #8b949e; }
   </style>
-  <rect x="0" y="0" width="400" height="200" rx="10" fill="#141321" stroke="#1a1928" stroke-width="1.5" />
+  <rect x="0" y="0" width="400" height="200" rx="10" fill="#000000" stroke="#1f242c" stroke-width="1.5" />
   
   <!-- Title -->
   <text x="25" y="35" class="title">Top Languages</text>
   
   <!-- Horizontal Multi-Color Bar -->
   <g transform="translate(25, 60)">
-    <rect x="0" y="0" width="350" height="15" rx="5" fill="#f1e05a" /> <!-- JS: 35% -->
-    <rect x="122.5" y="0" width="105" height="15" fill="#3178c6" /> <!-- TS: 30% -->
-    <rect x="227.5" y="0" width="70" height="15" fill="#3572a5" /> <!-- Python: 20% -->
-    <rect x="297.5" y="0" width="35" height="15" fill="#e34c26" /> <!-- HTML: 10% -->
-    <rect x="332.5" y="0" width="17.5" height="15" rx="5" fill="#563d7c" /> <!-- CSS: 5% -->
+    <rect x="0" y="0" width="350" height="15" rx="5" fill="#58a6ff" /> <!-- JS: 35% -->
+    <rect x="122.5" y="0" width="105" height="15" fill="#1f6feb" /> <!-- TS: 30% -->
+    <rect x="227.5" y="0" width="70" height="15" fill="#388bfd" /> <!-- Python: 20% -->
+    <rect x="297.5" y="0" width="35" height="15" fill="#ffffff" /> <!-- HTML: 10% -->
+    <rect x="332.5" y="0" width="17.5" height="15" rx="5" fill="#8b949e" /> <!-- CSS: 5% -->
     <!-- Rounding fixes for corners -->
-    <rect x="122.5" y="0" width="5" height="15" fill="#3178c6" />
-    <rect x="332.5" y="0" width="5" height="15" fill="#563d7c" />
+    <rect x="122.5" y="0" width="5" height="15" fill="#1f6feb" />
+    <rect x="332.5" y="0" width="5" height="15" fill="#8b949e" />
   </g>
   
   <!-- Legends (Two Columns) -->
   <g transform="translate(35, 105)">
     <!-- JS -->
-    <circle cx="0" cy="5" r="6" fill="#f1e05a" />
+    <circle cx="0" cy="5" r="6" fill="#58a6ff" />
     <text x="15" y="10" class="label">JavaScript</text>
     <text x="100" y="10" class="percentage">35.0%</text>
     
     <!-- TS -->
-    <circle cx="180" cy="5" r="6" fill="#3178c6" />
+    <circle cx="180" cy="5" r="6" fill="#1f6feb" />
     <text x="195" y="10" class="label">TypeScript</text>
     <text x="280" y="10" class="percentage">30.0%</text>
   </g>
   
   <g transform="translate(35, 135)">
     <!-- Python -->
-    <circle cx="0" cy="5" r="6" fill="#3572a5" />
+    <circle cx="0" cy="5" r="6" fill="#388bfd" />
     <text x="15" y="10" class="label">Python</text>
     <text x="100" y="10" class="percentage">20.0%</text>
     
     <!-- HTML -->
-    <circle cx="180" cy="5" r="6" fill="#e34c26" />
+    <circle cx="180" cy="5" r="6" fill="#ffffff" />
     <text x="195" y="10" class="label">HTML</text>
     <text x="280" y="10" class="percentage">10.0%</text>
   </g>
   
   <g transform="translate(35, 165)">
     <!-- CSS -->
-    <circle cx="0" cy="5" r="6" fill="#563d7c" />
+    <circle cx="0" cy="5" r="6" fill="#8b949e" />
     <text x="15" y="10" class="label">CSS</text>
     <text x="100" y="10" class="percentage">5.0%</text>
   </g>
