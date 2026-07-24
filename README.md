@@ -34,7 +34,7 @@
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 Achievements & Trophies (Static Badges - 100% Online)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rank-Platinum_Developer-E5E4E2?style=for-the-badge&logo=github&logoColor=black" alt="Rank" />
@@ -53,21 +53,21 @@
 
 ---
 
-### 📈 Git Activity & Contribution Dashboard
+### 📊 GitHub Stats & Contribution Streak
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="./stats.svg" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./streak.svg" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-900+-success?style=for-the-badge&logo=github&logoColor=white" alt="Total Commits" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PRs_Merged-85+-blue?style=for-the-badge&logo=git&logoColor=white" alt="PRs Merged" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PR_Success_Rate-98.4%25-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="PR Success Rate" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Code_Quality-A%2B%2B-violet?style=for-the-badge&logo=sonarcloud&logoColor=white" alt="Code Quality" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Weekly_Activity-35+_Hours-orange?style=for-the-badge&logo=clock&logoColor=white" alt="Weekly Activity" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Code_Reviews-120+-lightgrey?style=for-the-badge&logo=github&logoColor=black" alt="Code Reviews" />
+  <img src="./top-langs.svg" alt="Top Languages" width="60%" />
 </p>
 
 ---
